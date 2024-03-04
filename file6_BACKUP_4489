@@ -1,0 +1,6 @@
+add another file
+<<<<<<< HEAD
+content A
+=======
+content B
+>>>>>>> master
