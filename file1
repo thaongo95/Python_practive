@@ -1,0 +1,18 @@
+some useful command in linux:
+wc: print the numbers of lines, words, charecters in a file
+    -l : lines
+    -c -m : charecters
+    -w : words
+head: prints the first lines of a file
+    -n : number of lines to print
+cut: prints one or more columns from a file
+    -f : field, separated by a single tab.
+grep: displays lines contain the string from a file
+    grep "string" file
+    grep -v "string" file ----- show lines that not contain the string
+sort: reorder the lines of a file into ascending order or descending order
+    sort file
+    sort -r file -------reverse
+uniq: detects repeated, adjacent lines in a file
+    uniq -c file --------- count the occurrences of lines
+add the file10
