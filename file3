@@ -3,3 +3,7 @@ this is the third file to test git
 end!
 insert something same as the previous
 add another line here
+continue for vim
+when you want to move to the previous file
+you type the :prev or :previous command
+end!

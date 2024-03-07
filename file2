@@ -4,3 +4,8 @@ hello
 delete one line and add another line
 add a line to this file
 add one line here
+this files is also use for learn using vim
+when you want to edit multiple file in vim
+you use the :n command to move to the next file
+and use the i keyboard to insert text to the file
+end of part 2
