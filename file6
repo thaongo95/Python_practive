@@ -1,3 +1,9 @@
 add another file
 content B
 change something in file6
+Some file-viewing command:
+cat: concat view the entire file
+less: view one page at a time
+head: view head of the text
+tail: view tail of the text
+

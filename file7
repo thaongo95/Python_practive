@@ -1,3 +1,7 @@
+Basic directory commands:
+cd: change directory; ls: list the files in the directory
+mkdir: make directory, create one; rmdir: remove directory
+pwd: print the current directory(print working directory)
 add new text file
 add another file
 end
