@@ -16,3 +16,4 @@ sort: reorder the lines of a file into ascending order or descending order
 uniq: detects repeated, adjacent lines in a file
     uniq -c file --------- count the occurrences of lines
 add the file10
+ok change some words
