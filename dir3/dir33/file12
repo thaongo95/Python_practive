@@ -1,0 +1,5 @@
+basic merge conflicts
+git merge iss53
+auto-merging index.html
+if you change the same part of the same file differently in the two branches you are merging
+Git wont be able to merge them cleanly
