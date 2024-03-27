@@ -1,0 +1,4 @@
+you can also see this with the git log command
+If you run git log --oneline --decorate --graph --all
+it will print out the history of your commits
+showing where your branch poiters are and how history has dverged
