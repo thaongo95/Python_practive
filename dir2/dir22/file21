@@ -1,0 +1,7 @@
+template<typename T>
+T func(T a, T b, T c){
+	std::cout << "print the first param: " << a << std::endl;
+	std::cout << "print the second param: " << b << std::endl;
+	std::cout << "print the third param: " << c << std::endl;
+	return a+b+c;
+}
