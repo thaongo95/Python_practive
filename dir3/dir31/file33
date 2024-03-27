@@ -1,0 +1,15 @@
+#include<iostream>
+#include<string>
+#include<vector>
+
+
+int main(){
+	std::vector<std::string> str_list {"fisrtstr", "secondstr", "thirdstr", "fourstr"};
+        for(int i{0};i<10;i++){
+		str_list.append("anotherstr");
+	}
+	for (int i{0}; i<str_list.size(); i++){
+		std::cout << "String: " << str_list[i] << std::endl;
+	}
+	return 0;
+}
