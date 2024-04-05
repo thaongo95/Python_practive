@@ -1,4 +1,0 @@
-def func(int x, int y):
-	return (x>y) ? x:y
-def func2(int x, int y, int z):
-	return x+y+z
